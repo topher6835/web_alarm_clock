@@ -1,4 +1,4 @@
-### web_alarm_clock
+### web alarm clock
 
 Browser clock with alarm function.
 
